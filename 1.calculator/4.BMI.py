@@ -1,5 +1,5 @@
 print("Hi")
-print("Let`s calculate yuor Body Mass Index(BMI)")
+print("Let`s calculate your Body Mass Index(BMI)")
 
 w = float(input("please enter your weight(kg):"))
 h = float(input("please enter your height(m):"))
